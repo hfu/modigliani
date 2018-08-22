@@ -4,7 +4,7 @@
   "description": "An example code to use remodify on globalm-fs to create vector tiles",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ../globalm-fs/index.js | node ../remodify/index.js ./modify.js"
   },
   "repository": {
     "type": "git",
