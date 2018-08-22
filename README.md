@@ -15,7 +15,6 @@ $ cd modigliani; npm install
 ```
 
 ## Usage
-FIXME
 ```console
-$ node ../globalm-fs/index.js | node ../remodify/index.js modify.js | ...
+$ node ../globalm-fs/index.js | node ../remodify/index.js modify.js 
 ```
